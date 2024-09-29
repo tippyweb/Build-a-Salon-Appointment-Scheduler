@@ -2,7 +2,7 @@
 PSQL="psql -X --username=freecodecamp --dbname=salon --tuples-only -c"
 
 ######################################################################
-Salon Appointment Scheduler - 2024-09-29
+Salon Appointment Scheduler - 2024-09-29 - All tests passed
 ######################################################################
 
 echo -e "\n~~~~~ My Salon ~~~~~\n"
